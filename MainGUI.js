@@ -1,4 +1,5 @@
+function test() {
+  html = '<div id="Uploader"><h1>Test </h1></div>'
 
-html = '<div id="Uploader"><h1>Test </h1></div>'
-
-document.body.innerHTML = html;
+  document.body.innerHTML = html;
+}
