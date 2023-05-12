@@ -1,8 +1,5 @@
 html = '
-<div id="Uploader">
-  <h1>Test</h1>
-</div>
-<br> <br>
+<div id="Uploader"><h1>Test </h1></div>
 '
 
 document.createElement("div").innerHTML = html;
