@@ -1,3 +1,4 @@
+
 html = '<div id="Uploader"><h1>Test </h1></div>'
 
-document.createElement("div").innerHTML = html;
+document.body.innerHTML = html;
